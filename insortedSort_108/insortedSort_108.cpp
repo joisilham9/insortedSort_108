@@ -49,3 +49,11 @@ void insertionSort() {
 		}
      }
 }
+
+void display() {
+	cout << endl;
+	cout << "Total Element Movement = " << n - 1 << end;
+	cout << "\n==================================" << endl;
+	cout << "Element Array yang telah tersusun" << endl;
+	cout << "\n==================================" << endl;
+}
